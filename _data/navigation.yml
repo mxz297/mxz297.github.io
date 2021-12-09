@@ -5,11 +5,8 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+  
+  - title: "Research Artifact"
     url: /portfolio/
         
   - title: "Blog Posts"

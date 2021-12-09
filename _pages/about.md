@@ -14,11 +14,9 @@ I have broad research interests in Systems, High-Performance Computing, Software
 The common theme of my research across all these different areas
 is to develop foundational techniques for binary code analysis and instrumentation
 to derive deep insights on machine code and drive the aforementioned research areas.
-While program analysis and instrumentation done at the compiler level are generally more powerful
-than their binary-level counterparts,
-binary analysis and instrumentation continue to be critical in several real world scenarios.
 
 My research has been based on two long-live open-source projects:
 the [Dyninst binary analysis and instrumentation toolkit](https://github.com/dyninst/dyninst) and
 the [HPCToolkit performance measurement and analysis tool suite](https://github.com/HPCToolkit/hpctoolkit).
 I believe sustainable software is a key component for system research.
+

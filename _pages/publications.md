@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Conference Publications
+---
 
-{% include base_path %}
+1. Keren Zhou, Yueming Hao, John Mellor-Crummey, Xiaozhu Meng, Xu Liu, “ValueExpert: Exploring Value Patterns in GPU-accelerated Applications”, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Lausanne, Switzerland, Feb. 28 - March 4, 2022 (To appear)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. Xiaozhu Meng and Weijie Liu, “Incremental CFG Patching for Binary Rewriting”, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Virtual Conference, April 2021.
+
+Journal Articles
+---
+
+Workshop and Short Papers
+---
