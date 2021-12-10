@@ -26,15 +26,15 @@ Conference Publications
 Journal Articles
 ---
 
-1. Keren Zhou, Laksono Adhianto, Jonathon Anderson, Aaron Cherian, Dejan Grubisic, Mark Krentel, Yumeng Liu, Xiaozhu Meng, John Mellor-Crummey, “Measurement and analysis of GPU-accelerated applications with HPCToolkit”, Parallel Computing, Volume 108, September, 2021.
+1. Keren Zhou, Laksono Adhianto, Jonathon Anderson, Aaron Cherian, Dejan Grubisic, Mark Krentel, Yumeng Liu, Xiaozhu Meng, John Mellor-Crummey, “Measurement and analysis of GPU-accelerated applications with HPCToolkit”, Parallel Computing, Volume 108, September, 2021. [[PDF](https://mxz297.github.io/files/PARCO21.pdf)]
 
-1.  Ryuichi Sai, John Mellor-Crummey, Xiaozhu Meng, Keren Zhou, Mauricio Araya-Polo, Jie Meng, “Accelerating high-order stencils on GPUs”, Concurrency and Computation: Practice and Experience, special issue paper, August, 2021.
+1.  Ryuichi Sai, John Mellor-Crummey, Xiaozhu Meng, Keren Zhou, Mauricio Araya-Polo, Jie Meng, “Accelerating high-order stencils on GPUs”, Concurrency and Computation: Practice and Experience, special issue paper, August, 2021. [[PDF](https://mxz297.github.io/files/CPE21.pdf)]
 
-1. Keren Zhou, Xiaozhu Meng, Ryuichi Sai, Dejan Grubisic, John M Mellor-Crummey, “An Automated Tool for Analysis and Tuning of GPU-accelerated Code in HPC Applications”, IEEE Transactions on Parallel and Distributed Systems, July, 2021.
+1. Keren Zhou, Xiaozhu Meng, Ryuichi Sai, Dejan Grubisic, John M Mellor-Crummey, “An Automated Tool for Analysis and Tuning of GPU-accelerated Code in HPC Applications”, IEEE Transactions on Parallel and Distributed Systems, July, 2021. [[PDF](https://mxz297.github.io/files/TPDS21.pdf)]
 
-1. Xiaogang Zhu, Xiaotao Feng, Xiaozhu Meng, Sheng Wen, Seyit Camtepe, Yang Xiang, Kui Ren, “CSI-Fuzz: Full-speed Edge Tracing Using Coverage Sensitive Instrumentation”, IEEE Transactions on Dependable and Secure Computing, July, 2020.
+1. Xiaogang Zhu, Xiaotao Feng, Xiaozhu Meng, Sheng Wen, Seyit Camtepe, Yang Xiang, Kui Ren, “CSI-Fuzz: Full-speed Edge Tracing Using Coverage Sensitive Instrumentation”, IEEE Transactions on Dependable and Secure Computing, July, 2020. [[PDF](https://mxz297.github.io/files/TDSC20.pdf)]
 
-1. Kun He, Xiaozhu Meng, Zhizhou Pan, Ling Yuan, and Pan Zhou, “A Novel Task-Duplication based DAG Scheduling Algorithm for Heterogeneous Environments”, IEEE Transactions on Parallel and Distributed Systems, June, 2018
+1. Kun He, Xiaozhu Meng, Zhizhou Pan, Ling Yuan, and Pan Zhou, “A Novel Task-Duplication based DAG Scheduling Algorithm for Heterogeneous Environments”, IEEE Transactions on Parallel and Distributed Systems, June, 2018. [[PDF](https://mxz297.github.io/files/TPDS18.pdf)]
 
 Workshop and Short Papers
 ---
