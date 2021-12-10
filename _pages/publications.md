@@ -9,19 +9,19 @@ Conference Publications
 
 1. Keren Zhou, Yueming Hao, John Mellor-Crummey, Xiaozhu Meng, Xu Liu, “ValueExpert: Exploring Value Patterns in GPU-accelerated Applications”, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Lausanne, Switzerland, Feb. 28 - March 4, 2022 (To appear)
 
-1. Xiaozhu Meng and Weijie Liu, “Incremental CFG Patching for Binary Rewriting”, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Virtual Conference, April 2021.
+1. Xiaozhu Meng and Weijie Liu, “Incremental CFG Patching for Binary Rewriting”, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Virtual Conference, April 2021. [[PDF](https://mxz297.github.io/files/ASPLOS21.pdf)]
 
-1. Xiaozhu Meng, Jonathon M. Anderson, John Mellor-Crummey, Mark W. Krentel, Barton P. Miller, and Srđan Milaković, “Parallel Binary Code Analysis”, Symposium on Principles and Practice of Parallel Programming (PPoPP), Virtual Conference, Feb. 27 - March 3 2021.
+1. Xiaozhu Meng, Jonathon M. Anderson, John Mellor-Crummey, Mark W. Krentel, Barton P. Miller, and Srđan Milaković, “Parallel Binary Code Analysis”, Symposium on Principles and Practice of Parallel Programming (PPoPP), Virtual Conference, Feb. 27 - March 3 2021. [[PDF](https://mxz297.github.io/files/PPoPP21.pdf)]
 
-1. Keren Zhou, Xiaozhu Meng, Ryuichi Sai, John Mellor-Crummey, “GPA: A GPU Performance Advisor Based on Instruction Sampling”, International Symposium on Code Generation and Optimization (CGO), Virtual Conference, Feb. 27 - March 3 2021.
+1. Keren Zhou, Xiaozhu Meng, Ryuichi Sai, John Mellor-Crummey, “GPA: A GPU Performance Advisor Based on Instruction Sampling”, International Symposium on Code Generation and Optimization (CGO), Virtual Conference, Feb. 27 - March 3 2021. [[PDF](https://mxz297.github.io/files/CGO21.pdf)]
 
-1. Keren Zhou, Yueming Hao, John Mellor-Crummey, Xiaozhu Meng, Xu Liu, “GVPROF: A Value Profiler for GPU-based Clusters”, The International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Virtual Conference, Nov. 15-20, 2020.
+1. Keren Zhou, Yueming Hao, John Mellor-Crummey, Xiaozhu Meng, Xu Liu, “GVPROF: A Value Profiler for GPU-based Clusters”, The International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Virtual Conference, Nov. 15-20, 2020. [[PDF](https://mxz297.github.io/files/SC20.pdf)]
 
-1. Xiaozhu Meng, Barton P. Miller, and Kwang-Sung Jun, “Identifying Multiple Authors in a Binary Program”, 22nd European Symposium on Research in Computer Security (ESORICS), Oslo, Norway, Sep. 2017.
+1. Xiaozhu Meng, Barton P. Miller, and Kwang-Sung Jun, “Identifying Multiple Authors in a Binary Program”, 22nd European Symposium on Research in Computer Security (ESORICS), Oslo, Norway, Sep. 2017. [[PDF](https://mxz297.github.io/files/ESORICS17.pdf)]
 
-1. Xiaozhu Meng and Barton P. Miller, “Binary Code Is Not Easy”, International Symposium on Software Testing and Analysis (ISSTA), Saarbrücken, Germany, July 2016.
+1. Xiaozhu Meng and Barton P. Miller, “Binary Code Is Not Easy”, International Symposium on Software Testing and Analysis (ISSTA), Saarbrücken, Germany, July 2016. [[PDF](https://mxz297.github.io/files/ISSTA16.pdf)]
 
-1. Xiaozhu Meng, Barton P. Miller, William R. Williams, and Andrew R. Bernat, “Mining Software Repositories for Accurate Authorship”, 29th IEEE International Conference on Software Maintenance (ICSM), Eindhoven, Netherlands, Sep. 2013.
+1. Xiaozhu Meng, Barton P. Miller, William R. Williams, and Andrew R. Bernat, “Mining Software Repositories for Accurate Authorship”, 29th IEEE International Conference on Software Maintenance (ICSM), Eindhoven, Netherlands, Sep. 2013. [[PDF](https://mxz297.github.io/files/ICSM13.pdf)]
 
 Journal Articles
 ---
