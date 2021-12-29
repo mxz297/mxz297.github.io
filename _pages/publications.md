@@ -41,7 +41,7 @@ Workshop and Short Papers
 
 1. Ryuichi Sai, John Mellor-Crummey, Xiaozhu Meng, Mauricio Araya-Polo, Jie Meng, “Using the Semi-Stencil Algorithm to Accelerate High-Order Stencils on GPUs”, 12th IEEE International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS), Short Paper, Virtual Event, Nov. 15, 2021. [[PDF](https://mxz297.github.io/files/PMBS21.pdf)]
 
-1. Aaron Cherian, Keren Zhou, Dejan Grubisic, Xiaozhu Meng, John Mellor-Crummey, “Measurement and Analysis of GPU-Accelerated OpenCL Computations on Intel GPUs”, 2021 Workshop on Programming and Performance Visualization Tools (ProTools), Virtual Event, Nov. 14, 2021.
+1. Aaron Cherian, Keren Zhou, Dejan Grubisic, Xiaozhu Meng, John Mellor-Crummey, “Measurement and Analysis of GPU-Accelerated OpenCL Computations on Intel GPUs”, 2021 Workshop on Programming and Performance Visualization Tools (ProTools), Virtual Event, Nov. 14, 2021. [[PDF](https://mxz297.github.io/files/ProTools21.pdf)]
 
 1. Ryuichi Sai, John Mellor-Crummey, Xiaozhu Meng, Mauricio Araya-Polo, Jie Meng, “Accelerating High-Order Stencils on GPUs”, 11th IEEE International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS), Virtual Event, Nov. 12th 2020. [[PDF](https://mxz297.github.io/files/PMBS20.pdf)]
 
